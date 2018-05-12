@@ -1,0 +1,56 @@
+_repo: The-Loving-Ballad-of-Lord-Bateman_15618
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Thackeray, William Makepeace
+    aliases:
+    - Thackeray, W. M.
+    - Titmarsh, M. A.
+    - Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: An adaptation of the traditional ballad, variously ascribed to Thackeray,
+  Dickens, and Cruikshank; the text is generally attributed to Thackeray or Cruikshank,
+  the introduction and notes to Dickens.
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15618'
+language: en
+publication_note: "London:\r\nCharles Tilt, Fleet Street.\r\nAnd Mustapha Syried,\
+  \ Constantinople.\r\nMDCCCXXXIX."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Ballads, English'
+- !lcc 'PR'
+title: The Loving Ballad of Lord Bateman
+url: http://www.gutenberg.org/ebooks/15618
