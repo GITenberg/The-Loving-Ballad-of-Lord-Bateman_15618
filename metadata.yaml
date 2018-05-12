@@ -38,6 +38,8 @@ creator:
 description: An adaptation of the traditional ballad, variously ascribed to Thackeray,
   Dickens, and Cruikshank; the text is generally attributed to Thackeray or Cruikshank,
   the introduction and notes to Dickens.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15618#The-Loving-Ballad-of-Lord-Bateman
 gutenberg_issued: '2005-04-14'
 gutenberg_type: Text
 identifiers:
